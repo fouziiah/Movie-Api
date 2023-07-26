@@ -1,0 +1,22 @@
+body{
+  background: rgb(36,0,0);
+background: linear-gradient(90deg, rgba(36,0,0,1) 0%, rgba(227,203,159,0.8562018557422969) 100%, rgba(113,177,190,1) 100%);
+
+}
+
+.title{
+  text-align: center;
+  font-size: 60px;
+}
+
+.form{
+  text-align: center;
+}
+
+.data{
+  text-align: center;
+}
+
+
+input{
+}
